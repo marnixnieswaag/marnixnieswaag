@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marnixnieswaag
+- 👋 Hi, I’m Marnix
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: marnixnieswaag@gmail.com
 
